@@ -33,5 +33,7 @@ body{
 </head>
 <body>
     <h1>Welcome To Dashboard</h1>
+
+<input type="submit" name="logout">
 </body>
 </html>
